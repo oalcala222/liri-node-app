@@ -1,3 +1,7 @@
-node_modules,
-.DS_Store,
-.env,
+#################
+##node-liri-app##
+#################
+##Ignore files that we do not want visible to others
+node_modules
+.DS_Store
+.env
