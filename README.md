@@ -25,8 +25,6 @@ Dependancies Used in APP:
 
 
 Images of Functioning APP:
-![Optional Text](../liri-node-app/images/All Node Modules Required.png)
+![Image](https://drive.google.com/drive/u/0/folders/10P_ooOyv6asNCY8N0E38OQ_74z1f0fky)
 
-images/All Node Modules Required.png
 
-Look In the images folder
