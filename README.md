@@ -28,7 +28,7 @@ as well as a search parameter for the command as listed below:
         
  
  
-## Dependancies Used in APP:
+## Dependancies Used in app:
 
 - fs
 - moment
@@ -36,10 +36,20 @@ as well as a search parameter for the command as listed below:
 - axios
 
 
-## Images of Functioning APP:
+## Images of Functioning app:
 
 ![Image](https://i.imgur.com/vVhBbYM.png)
+***
 ![Image](https://i.imgur.com/thXHwPB.png)
+***
+![Image](https://i.imgur.com/7A2wWc3.png)
+***
+![Image](https://i.imgur.com/lc5dmtO.png)
+***
+![Image](https://i.imgur.com/REXEjqH.png)
+***
+![Image](https://i.imgur.com/tfbzDY9.png)
+
 
 
 
