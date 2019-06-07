@@ -5,6 +5,7 @@ The Liri Node App allows users to run through different commands declared direct
 Commands & Parameter:
   * "*spotify-this-song*" *Song*
       - Calls the Spotify API and returns the result matching the song you entered. 
+      
   
   - "*concert-this*" *Artist*
      - Calls the Bands In Town API and returns the results for concert matching the artist that you entered using the AXIOS NPM module.  
@@ -25,6 +26,12 @@ Dependancies Used in APP:
 
 
 Images of Functioning APP:
-![Image](https://drive.google.com/drive/u/0/folders/10P_ooOyv6asNCY8N0E38OQ_74z1f0fky)
+![Image](https://i.imgur.com/EQInTuD.png)
+![Image](https://i.imgur.com/d5o6vle.png)
+![Image](https://i.imgur.com/zknlzku.png)
+![Image](https://i.imgur.com/eF1otvx.png)
+![Image](https://i.imgur.com/vVhBbYM.png)
+![Image](https://i.imgur.com/thXHwPB.png)
+
 
 
