@@ -1,5 +1,5 @@
 # **Liri node app**
-
+***
 The Liri Node App allows users to run through different commands declared directly in the terminal using node.js. Through the CLI, the user will run the liri.js file and input 1 of the 4 following commands 
 
 ![Image](https://i.imgur.com/zknlzku.png)
