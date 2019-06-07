@@ -13,29 +13,30 @@ as well as a search parameter for the command as listed below:
       ![Image](https://i.imgur.com/d5o6vle.png)
       
   
-  - "*concert-this*" *Artist*
+  - "**concert-this**" **Artist**
      - Calls the Bands In Town API and returns the results for concert matching the artist that you entered using the AXIOS NPM module.  
       
-  - "*movie-this*" *Movie*
+  - "**movie-this**" **Movie**
       - Calls the IMBD API and display the details of the movie you searched for using the AXIOS NPM module.  
 
       ![Image](https://i.imgur.com/EQInTuD.png)
     
-  - "*do-what-it-says*" n/a
+  - "**do-what-it-says**" N/A
       - This command calls liri.js and it will read a parameter from the file "random.txt". The command will automatically search Spotify for the term that was read from the Random.txt file.  
 
       ![Image](https://i.imgur.com/eF1otvx.png)
         
  
  
-Dependancies Used in APP:
+## Dependancies Used in APP:
+
 - fs
 - moment
 - node-spotify-api
 - axios
 
 
-Images of Functioning APP:
+## Images of Functioning APP:
 
 ![Image](https://i.imgur.com/vVhBbYM.png)
 ![Image](https://i.imgur.com/thXHwPB.png)
