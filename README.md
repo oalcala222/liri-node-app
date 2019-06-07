@@ -1,4 +1,4 @@
-# Heading 1 Liri node app
+# **Liri node app**
 
 The Liri Node App allows users to run through different commands declared directly in the terminal using node.js. Through the CLI, the user will run the liri.js file and input 1 of the 4 following commands 
 
@@ -6,7 +6,7 @@ The Liri Node App allows users to run through different commands declared direct
 
 as well as a search parameter for the command as listed below:
 
-Commands & Parameter:
+## Commands & Parameters:
   * "*spotify-this-song*" *Song*
       - Calls the Spotify API and returns the result matching the song you entered. 
 
