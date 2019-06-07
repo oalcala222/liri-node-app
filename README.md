@@ -7,7 +7,7 @@ The Liri Node App allows users to run through different commands declared direct
 as well as a search parameter for the command as listed below:
 
 ## Commands & Parameters:
-  * "*spotify-this-song*" *Song*
+  * "**spotify-this-song**" **Song**
       - Calls the Spotify API and returns the result matching the song you entered. 
 
       ![Image](https://i.imgur.com/d5o6vle.png)
